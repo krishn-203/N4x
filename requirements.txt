@@ -1,0 +1,2 @@
+# python-telegram-bot 22.8+ — Python 3.14 (Termux) support ke liye zaroori
+python-telegram-bot>=22.8,<23
